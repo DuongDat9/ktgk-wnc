@@ -144,7 +144,8 @@ npm run start:dev
 
 ### 📊 Lưu đồ thuật toán – Activity Diagram (2 điểm)
 
-Activity Diagram CRUD đã được vẽ trong bài kiểm tra.  
+Activity Diagram CRUD đã được vẽ trong bài kiểm tra.
+<img width="2704" height="5917" alt="607583006-e43ee850-011c-4cef-9848-4d649ccb1aa8" src="https://github.com/user-attachments/assets/856c21be-cf82-480f-90c4-2b085590f741" />
 Các nhánh quyết định theo chuẩn UML:
 
 - ◆ **Validate DTO** → Hợp lệ / Không hợp lệ (400)
